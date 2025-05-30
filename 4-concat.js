@@ -1,3 +1,3 @@
-let arguments = process.argv;
+const arguments = process.argv;
 
 console.log(arguments[2] + " is " + arguments[3]);
